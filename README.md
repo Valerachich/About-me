@@ -5,4 +5,4 @@
 - Знак зодиака - Весы
 - Люблю сельдерей  
 
-<image src="/Foto.jpeg" alt="Фотография">
+<image src="Foto.jpeg" alt="Фотография">
